@@ -1,5 +1,5 @@
-library verificarPalindromo;
-export './verificar_palindromo.dart';
+library verificar_palindromo;
+
 import 'src/replace_map.dart';
 
 bool verificarPalindromo(String text) {
